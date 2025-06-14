@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhishek07ma
-- 👀 I’m interested in Web Development,Java,C++
+- 👋 Hi, I’m Abhishek Singh
+- 👀 I’m interested in Web Development,Java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : via Email-abhisheksinghd45@gmail.com
